@@ -1,10 +1,10 @@
-# 📓 Optimization Algorithms — Hand Notes
+# Optimization Algorithms — Hand Notes
 
 এই repository তে Gradient Descent থেকে শুরু করে Adam পর্যন্ত বিভিন্ন optimization algorithm এর হাতে লেখা নোট শেয়ার করা হয়েছে। প্রতিটি optimizer এর intuition, math, এবং কোথায় ভালো কাজ করে — সব কিছু সহজ ভাষায় বোঝানোর চেষ্টা করা হয়েছে।
 
 ---
 
-## 📌 যা যা Cover করা হয়েছে
+## যা যা Cover করা হয়েছে
 
 ### 1. Normal Gradient Descent এবং এর সমস্যা
 
