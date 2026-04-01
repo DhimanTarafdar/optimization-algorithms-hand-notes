@@ -116,20 +116,6 @@ $$\theta = \theta - \frac{\alpha}{\sqrt{\hat{v}_t} + \epsilon} \cdot \hat{m}_t$$
 
 ---
 
-## 🗺️ Optimizers এর Quick Comparison
-
-| Optimizer | Adaptive LR | Momentum | Best For |
-|---|---|---|---|
-| Batch GD | ❌ | ❌ | ছোট dataset |
-| SGD | ❌ | ❌ | Simple problems |
-| SGD + Momentum | ❌ | ✅ | General use |
-| NAG | ❌ | ✅ | Faster convergence |
-| Adagrad | ✅ | ❌ | Sparse data |
-| RMSProp | ✅ | ❌ | Non-stationary problems |
-| **Adam** | ✅ | ✅ | **Most problems** |
-
----
-
 ## 📁 Repository Structure
 
 ```
